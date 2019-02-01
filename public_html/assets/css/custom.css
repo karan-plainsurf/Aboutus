@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30 Jan, 2019, 2:22:19 PM
+    Author     : karan
+*/
+
+
+h2{
+    color: grey;
+}
+h3 {
+    color: #556B2F;
+}
+strong{
+    font-size: 150%;
+
+}
+img.gap {
+    margin-bottom: -15px;
+    height: 75px;
+}
+.container-fluid.border {
+    margin-right: 0px;
+    margin-left: -15px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-left: 244px;
+    padding-right: 229px;
+}
+
+.container.space.text-left {
+    padding-top: 50px;
+}
+strong.new {
+    padding-left: 135px;
+}
+.row.new2 {
+    padding-top: 40px;
+}
+p {
+    padding-top: 20px;
+}
+
+.row.new3 {
+    padding-top: 60px;
+}
+.container-fluid.new4 {
+    padding-top: 35px;
+    padding-right: 0px;
+    margin-left: -15px;
+}
+.row.new5 {
+    padding-top: 35px;
+}
+.container-fluid.back {
+    background-color: silver;
+    padding-top: 45px;
+    padding-left: 175px;
+    padding-right: 223px;
+    padding-bottom: 50px;
+}
+.container-fluid.bg{
+    background-color: #252a33;
+} 
+.container-fluid.bg img{
+    height: 25px;
+}
+.white {
+    color: white;
+    padding-top: -5px;
+    
+}
+p.space {
+    padding-top: 0px;
+}
+.space1 {
+    padding-top: 30px;
+}
